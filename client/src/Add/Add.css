@@ -1,0 +1,10 @@
+.stack{
+    display: contents !important;
+}
+.MuiFormControl-root {
+    margin-bottom: 30px !important;
+
+}
+.about div{
+    height: 200px;
+}

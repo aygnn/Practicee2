@@ -1,0 +1,43 @@
+.nameinputs div input{
+    width: 302px !important;
+    margin-right: 10px !important;
+    margin-bottom: 10px !important;
+
+}
+.section6{
+    background-color: #f8f9fa
+}
+.messageus{
+    margin-top: 49px;
+    text-align: left;
+    width: 48%;
+    margin-left: 24%;
+}
+.emailinput{
+    display: flex;
+    flex-direction: column;
+   
+}
+.emailinput div input{
+    width: 634px !important;
+    margin-bottom: 10px !important;
+}
+.write input{
+    width: 634px !important;
+    height: 254px;
+}
+.messageus div h2{
+    font-size: 3rem;
+    color: #000;
+    margin-bottom: 1.8rem;
+    font-weight: 900;
+    margin-bottom: 1rem !important;
+    line-height: 1.2;
+}
+.messageus div p{
+    margin-bottom: 3rem;
+    line-height: 1.7;
+    color: gray;
+    font-weight: 300;
+    font-size: 1.1rem;
+}

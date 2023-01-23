@@ -1,0 +1,58 @@
+.col-sm-7 img{
+    width: 634px;
+    height: 467px;
+}
+.col-sm-5 h2{
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 2rem;
+    margin-bottom: 1.5rem !important;
+}
+.col-sm-5 div span{
+    display: inline-block;
+    position: relative;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: #7971ea;
+    color: white;
+}
+.ourprograms{
+    display: flex;
+    flex-direction: column;
+    width: 43%;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.ourprograms h2{
+    font-size: 3rem;
+    color: #000;
+    margin-bottom: 1.8rem;
+    font-weight: 900;
+}
+.ourprograms p{
+    line-height: 1.7;
+    color: gray;
+    font-weight: 300;
+    font-size: 1.1rem
+}
+.excellent{
+    width: 67%;
+    text-align: left;
+    margin: 100px;
+}
+.excellent p{
+    line-height: 1.7;
+    color: gray;
+    font-weight: 300;
+    font-size: 1.1rem
+}
+.excellent div span {
+    text-align: center;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+.excellent div {
+    color: #7971ea;
+}
+
